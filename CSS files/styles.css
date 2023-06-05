@@ -1,0 +1,10 @@
+header{
+    background-color: purple;
+    color: yellow;
+}
+
+header img{
+    width: 5%;
+    height: 5%;
+    float: left
+}
